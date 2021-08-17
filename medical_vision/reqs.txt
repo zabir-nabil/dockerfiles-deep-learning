@@ -1,0 +1,13 @@
+kaggle
+tqdm
+numpy
+pandas
+matplotlib
+pydicom
+opencv-python
+scikit-learn
+efficientnet_pytorch
+git+https://github.com/shijianjian/EfficientNet-PyTorch-3D.git
+imgaug
+torchio
+Augmentor
